@@ -16,8 +16,8 @@ This Python script demonstrates real-time object detection using the YOLOv3 mode
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/yolov3-object-detection.git
-cd yolov3-object-detection
+git clone https://github.com/LikhithaAralimara/objectDetection-YOLOv3-OpenCV.git
+cd objectDetection-YOLOv3-OpenCV
 ```
 ## Usage
 
