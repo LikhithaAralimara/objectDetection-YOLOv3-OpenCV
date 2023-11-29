@@ -29,7 +29,7 @@ cd yolov3-object-detection
 
    ```bash
    python yolo_object_detection.py
-``
+
 ## Customization and Configuration
 
 By default, the script captures video from the default camera. To load an image instead, set `showCap=False` and specify the image file.
@@ -46,16 +46,16 @@ Tailor the script's behavior by adjusting the following variables:
 
   ```python
   showCap = True  # or False
-``
+
 - **`confThr`**: Confidence threshold for object detection.
 
   ```python
   confThr = 0.5  # Set your desired confidence threshold
-``
+
 - **`nmsThr`**: Non-maximum suppression threshold.
 
   ```python
   nmsThr = 0.4  # Set your desired non-maximum suppression threshold
-``
+
 Feel free to explore various configurations and seamlessly integrate the script into your projects! Customize the parameters to achieve optimal results for your specific use case.
 
